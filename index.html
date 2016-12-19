@@ -20,9 +20,11 @@
 
     <!--https://developers.facebook.com/docs/sharing/webmasters -->
     <!--http://littleshell-multimedia.blogspot.tw/2011/03/facebook-sharer.html http://littleshell-multimedia.blogspot.tw/2013/10/facebook-sharer-description-title-image.html-->
+    <!-- https://developers.facebook.com/tools/debug/sharing/?q=http%3A%2F%2Flanderso.at-ninja.jp%2F%23!index.md -->
     <meta property="og:title" content="⎝◕‿◕⎠ MDwiki 試玩中"/>
     <!-- <meta property="og:image" content="http://landerso.at-ninja.jp/index.gif"/> -->
     <meta property="og:image" content="http://landerso.at-ninja.jp/index.png"/>
+    <meta property="og:image" content="http://landerso.at-ninja.jp/index_5.png"/>
     <meta property="og:description" content="⎝◕‿◕⎠ MDwiki 試玩中：我目前剛開始試玩中。意在記錄操作備忘兼分享方法。但這個網站不一定會永久存在。"/>
     <meta property="og:url" content="http://landerso.at-ninja.jp/" />
     <!--http://littleshell-multimedia.blogspot.tw/2011/03/facebook-sharer.html http://littleshell-multimedia.blogspot.tw/2013/10/facebook-sharer-description-title-image.html-->
@@ -2103,7 +2105,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
                 //alert(error_msg);
                 fancybox_inline('<div style=\"font-size:18px;text-shadow: 0 0 0.001em;color:red;text-align: center;font-family:' + localStorage['font'] + '\">' + error_msg + '</h4>',beforeload_func=null,afterload_func=focusme(),beforeclose_func=null,afterclose_func=null,cancel_func=null); //用這個才不會被中斷傳訊
                 console.error(error_msg);
-                return false;
+                return '';
             }
 
             if( ((parseInt(localStorage['error_time_' + md5(word)]) + 1000*60*60*24) < now)){//} &&  (localStorage['error_time_' + md5(word)]!=null)  ){
@@ -2135,7 +2137,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
                 }else{
                     console.log('執行發生未知錯誤 = ' + e.toString());
                 }
-                return false;
+                return '';
             }
             return output;
         }
@@ -2503,12 +2505,22 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
                     alert('感謝ㄅㄅ 今天首次用電腦協助測試（不');
                     break;
               }
-              if(localStorage['welcome_conut'] == 50){
-                JANDI_webhooks('【來自各方 MDwiki 系統 訪客爆訪紀錄】','#C48415','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/11691684/3b6e6071e481e436605261583eff0177');
-              }else{
-                localStorage['welcome_conut'] = 1;
-                JANDI_webhooks('【來自各方 MDwiki 系統 每日訪客來訪紀錄】','#0ce3ac','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/11691684/3b6e6071e481e436605261583eff0177');
+              switch (localStorage['welcome_conut']){
+                case 50:
+                case 100:
+                case 150:
+                case 200:
+                    JANDI_webhooks('【來自各方 MDwiki 系統 訪客爆訪紀錄】','#C48415','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/11691684/3b6e6071e481e436605261583eff0177');
+                  break;
+                default:
+                    localStorage['welcome_conut'] = 1;
+                    JANDI_webhooks('【來自各方 MDwiki 系統 每日訪客來訪紀錄】','#0ce3ac','訪客資訊','訪客名稱：' + uname,'',1,'https://wh.jandi.com/connect-api/webhook/11691684/3b6e6071e481e436605261583eff0177');
               }
+              // if(localStorage['welcome_conut'] == 50){
+
+              // }else{
+
+              // }
 
               localStorage['welcome']  = now; //超過一天或沒做過的話才做，並刷新。
           }else{
