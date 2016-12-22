@@ -189,9 +189,10 @@
   - <a href="javascript:fancybox_openurl('https://line.me/R/ti/p/%40pyv6283b');" alt="加入好友"><img src="line.png" /> 動畫瘋 LINE 機器人（站長試寫）</a>
   - [📺 操作示範效果](https://drive.google.com/file/d/0B3rgktr7zpP9c3BXR2c1WC1RdTQ/preview "這是基本版純文字訊息，據官方文件所示也支援傳送圖片、聲音、影像、檔案。但那需要另外研究怎麼寫。")
   
-[🔃  2016.12.21 更新]()
+[🔃  2016.12.22 更新]()
 
   - #更新項目
+  - [🆕 更新 LINE 機器人的手機互動介面](#!update.md "2016.12.22")
   - [🆕 增加 SKYPE、新浪微博、Telegram 分享功能](#!update.md "2016.12.18")
   - [🆕 通報使用者過多錯誤嘗試 + 時間鎖 完成](#!update.md#[2016.12.17]_通報使用者過多錯誤嘗試_+_時間鎖_完成 "2016.12.17")
   - [🆕 燈箱介面體驗優化](#!update.md#[2016.12.16]_燈箱_UI_體驗優化 "2016.12.16")
