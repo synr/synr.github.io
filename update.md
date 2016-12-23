@@ -31,7 +31,7 @@
     - 除了這樣很難用於介紹系列外，用來介紹單品倒是還好。
     - 但這 [UI（使用者介面）](https://zh.wikipedia.org/wiki/UI) 的接受度高不好，最後還是要看 [UX（使用者體驗）](https://zh.wikipedia.org/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E7%B6%93%E9%A9%97)。
 - 舊的功能與用法還是都留著，只是多加上新的介面。
-  - [舊版的示範影片](https://www.facebook.com/messages/1173148296)
+  - [舊版的示範影片](https://drive.google.com/file/d/0B3rgktr7zpP9c3BXR2c1WC1RdTQ/preview)
 
 
 ## \[2016.12.18\] 增加 SKYPE、新浪微博、Telegram 分享功能
