@@ -70,10 +70,10 @@
 [gimmick:themechooser](🎨  網站配色)
 <!-- [gimmick:theme](flatly) -->
 <!-- +++ -->
-<!-- [gimmick:theme](Darkly) -->
+[gimmick:theme](Darkly)
  <!-- +++ -->
 <!-- cyborg -->
-[gimmick:theme](amelia)
+<!-- [gimmick:theme](amelia) -->
 <!-- [gimmick:theme](slate) -->
 <!-- cosmo -->
 <!-- [gimmick:theme](cerulean) -->
