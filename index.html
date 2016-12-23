@@ -2673,6 +2673,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
         }
         //2016.12.09+ 匹配選單特效
         //https://www.minwt.com/webdesign-dev/html/16745.html
+        //實際上這用到 https://daneden.github.io/animate.css/
         function menu_effect_set(){
           var target_tag = document.getElementsByTagName('ul');
           for (var i = 0; i < target_tag.length; i++) {
@@ -2700,6 +2701,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
           }
         }
 
+        //https://www.minwt.com/webdesign-dev/html/16745.html
         function menu_effect_active(){
             /* ========================================================================
             * Tutorial specific Javascript
@@ -2707,6 +2709,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
             * ========================================================================
             * Copyright 2015 Bootbites.com (unless otherwise stated)
             * For license information see: http://bootbites.com/license
+            https://github.com/daneden/animate.css
             * ======================================================================== */
             var dropdownSelectors=$(".dropdown, .dropup");function dropdownEffectData(a){var b=null,e=null,f=$(a),c=$(".dropdown-menu",a),d=f.parents("ul.nav");0<d.size()&&(b=d.data("dropdown-in")||null,e=d.data("dropdown-out")||null);return{target:a,dropdown:f,dropdownMenu:c,effectIn:c.data("dropdown-in")||b,effectOut:c.data("dropdown-out")||e}}function dropdownEffectStart(a,b){b&&(a.dropdown.addClass("dropdown-animating"),a.dropdownMenu.addClass("animated"),a.dropdownMenu.addClass(b))}
             function dropdownEffectEnd(a,b){a.dropdown.one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend",function(){a.dropdown.removeClass("dropdown-animating");a.dropdownMenu.removeClass("animated");a.dropdownMenu.removeClass(a.effectIn);a.dropdownMenu.removeClass(a.effectOut);"function"==typeof b&&b()})}
@@ -2715,6 +2718,7 @@ console.log("\u88ab\u901a\u5831\u7684\u6240\u5728\u7db2\u5740\uff1a"+location.hr
         }
         window.setTimeout(menu_effect_active,3000);
 
+        //還沒完成後面的操作 meun_open 呢? 不過急迫性跟實用性很低，所以不寫也沒關係
         function menu_close(){
           var target_tag = document.getElementsByTagName('li');
           for (var i = 0; i < target_tag.length; i++) {
