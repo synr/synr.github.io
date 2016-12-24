@@ -48,7 +48,7 @@
   - ``*.md`` 可以用相關的通用型純文字編輯器或專門的 Markdown 編輯軟體或線上網站來寫。
 例如兼推薦：
     - 編輯程式語言很好用的 [**Sublime Text**](https://www.sublimetext.com) 或類似的純文字編輯軟體。
-    - 可線上編輯的網站：[stackedit.io](http://stackedit.io)
+    - 可線上編輯的網站：[HHackmd.io](https://hackmd.io)、[stackedit.io](http://stackedit.io)
     你也可以閱讀資訊，嘗試各種類似網站找到你喜歡的線上編輯網站。
     [七款支援即時預覽的線上 Markdown 文件編輯器 - 玩物尚誌](http://blog.lyhdev.com/2013/12/markdown.html)
   - 也可以單純用記事本寫一寫，存檔後更改副檔名 ``*.txt`` 為 ``*.md``。
