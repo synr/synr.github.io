@@ -1692,9 +1692,12 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
                     if(/^https?:\/\/(drive\.google\.com\/open\?id=|drive\.google\.com\/file\/d\/)([^&|^?]*)(\/view.*$|\/view$|\/preview$|\/preview.*$|\&.*$)/gi.test(google_drive_url)){
                         this_mono.href = google_drive_url.replace(/^https?:\/\/(drive\.google\.com\/open\?id=|drive\.google\.com\/file\/d\/)([^&|^?]*)(\/view.*$|\/view$|\/preview$|\/preview.*$|\&.*$)/gi,'https://drive.google.com/file/d/$2/preview');
                     }
-
                     if(/^https?:\/\/drive\.google\.com\/open\?id=([^&|^?]*)($|\&.*$)/gi.test(google_drive_url)){
                         this_mono.href = google_drive_url.replace(/^https?:\/\/drive\.google\.com\/open\?id=([^&|^?]*)($|\&.*$)/gi,'https://drive.google.com/file/d/$1/preview');
+                    }
+                    //2017.02.06+ box
+                    if(/^https?:\/\/app.box.com\/s\/(.*)/g.test(this_mono.href)){
+                        this_mono.href = 'https://app.box.com/embed/preview/' + this_mono.href.replace(/https?:\/\/app.box.com\/s\/(.*)/g,'$1');
                     }
         }
 
