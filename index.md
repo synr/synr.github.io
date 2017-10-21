@@ -112,7 +112,7 @@ Google Drive 已經在 2016.08.31 ~~偷偷摸摸~~取消這功能。</font>
 去創造一個，只要你儲存或變動檔案，就會被自動上傳到 FTP 的環境。
 這樣用起來很方便，可以把上傳的動作無形化。
     - 推薦檔案監控軟體：[DirectoryMonitor](https://www.google.com.tw/search?newwindow=1&q=DirectoryMonitor+%E9%98%BF%E6%A6%AE&oq=DirectoryMonitor+%E9%98%BF%E6%A6%AE&gs_l=serp.3..30i10.1299.5522.0.5904.19.13.6.0.0.0.120.1181.9j4.13.0....0...1c.1j4.64.serp..2.15.818...0i13.eAX9NC_IGiw)
-    - 推薦支援 FTP 的檔案同步軟體：[FreeFileSync](https://www.google.com.tw/search?newwindow=1&q=FreeFileSync+%E9%98%BF%E6%A6%AE&oq=FreeFileSync+%E9%98%BF%E6%A6%AE&gs_l=serp.3..0.407.2032.0.3750.7.7.0.0.0.0.144.814.3j4.7.0....0...1c.1j4.64.serp..1.2.277.yK-23SciBkw)
+    - 推薦支援 FTP 的檔案同步軟體：[SyncBackFree](https://www.google.com.tw/search?newwindow=1&q=SyncBackFree+%E9%98%BF%E6%A6%AE&oq=FreeFileSync+%E9%98%BF%E6%A6%AE&gs_l=serp.3..0.407.2032.0.3750.7.7.0.0.0.0.144.814.3j4.7.0....0...1c.1j4.64.serp..1.2.277.yK-23SciBkw)
 使用同步軟體的時候，建議詳細設定你想要同步的細部規則。
 我的話是設定成本機對映 FTP，等於 FTP 有多的檔案就無條件刪除。
 每次同步就會完整複製本機的檔案上去，只要修改日期比較新就無條件覆蓋。
