@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+       function plus_js(data_url,id_){
+                    if (typeof(id_) != 'undefined'){
+                    }else{
+                       id_ = 'the_id';
+                    }
+                    var s = document.getElementById(id_);
+                    if (s != null) {
+                        document.body.removeChild(s);
+                    }
+                    var s = document.createElement('script');
+                    s.language = "javascript";
+                    s.type = 'text/javascript';
+                    s.src = data_url;
+                    s.setAttribute('charset', 'UTF-8');
+                    s.id = id_;
+                    //document.body.appendChild(s);
+                    document.getElementsByTagName('head')[0].appendChild(s);
+        }
+        setTimeout(function(){plus_js('123.js')}, 900);
+        
+	</script>
+</head>
+<body>
+
+</body>
+</html>
