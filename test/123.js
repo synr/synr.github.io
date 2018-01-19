@@ -73,4 +73,3 @@
 </style>
 </body>
 </html>`;
-document.write(print_string);
