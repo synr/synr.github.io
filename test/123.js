@@ -58,7 +58,7 @@ var print_string = `<html><head>
 </textarea>
 <div class="noprint">文字列的分隔可用，; TAB 跟四個半形空白</div>
 <!--<button class="noprint" onclick="javascript:document.getElementById('print_zone').innerHTML = table_1;">產生信封</button>-->
-<button class="noprint" onclick="javascript:print()">列印</button> <button class="noprint" onclick="javascript:Window.location.reload()">回收據</button>
+<button class="noprint" onclick="javascript:print()">列印</button> <button class="noprint" onclick="javascript:window.location.reload()">回收據</button>
 <center>
     <div style="break-after: page; break-inside: avoid; font-family: &quot;Gen Jyuu Gothic Medium&quot; ,genjyuugothicx_p_medium, 微軟正黑體, &quot;Microsoft JhengHei&quot;, sans-serif, 微軟正黑體, &quot;Microsoft JhengHei&quot;, sans-serif;">
         <center id="print_zone">
