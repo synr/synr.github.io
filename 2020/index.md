@@ -1,15 +1,4 @@
-﻿#魔力寶貝 2016.06.30 改版後開放的新地圖 露畢恩島
-##前往望海村
-- [【攻略】主線任務- 騷亂之島I-露畢恩的商船(露畢恩島通行權) @魔力寶貝 哈啦板 - 巴哈姆特](http://forum.gamer.com.tw/C.php?bsn=02577&snA=158254&tnum=4)
-  - 解任資格限制：開啟者稱號，戰鬥系40等以上，生產系50等以上。
-  - 隊長不能解過這個任務：
-解過的人物無法再接，需要沒解過的人物當隊長帶頭解任。
-  - 需打小王，不到百等。45、55 等。
-  - 路上怪很肥 血大概(?) 2000 上下。
-  - 解完道具可交易、丟地，之後聖村坐船身上不用有道具。
-  - 解任過程紀念錄影：[１](https://drive.google.com/file/d/0B_b1e3AASsaLLVFjckxiMEVNbTQ/preview)、[２](https://drive.google.com/file/d/0B_b1e3AASsaLNVVSRDYyVlNHTnc/preview)、[３](https://drive.google.com/file/d/0B_b1e3AASsaLN0VXNHQtWmpxbmc/preview)
-
-## 20191111 ～ 
+﻿# 20191111 ～ 
 
 ----
 
