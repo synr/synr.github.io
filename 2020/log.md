@@ -1,4 +1,4 @@
-# 2019.11.11 至今擔任 ISP 技術客服
+# 2019.11.11 至今擔任 ISP 網路供應業者技術客服
 
 任職後，應用本身擅長的資訊整合即時通報概念，
 開創新增並導入內部即時自動通報功能。
@@ -40,7 +40,7 @@
   - 實際操作影片：
 [點我播放](https://www.youtube.com/embed/U3IaHwWKXcA?cc_lang_pref=tw&cc_load_policy=1&autoplay=1)
 - [CCNDA APP - 提案企劃 簡報](https://docs.google.com/presentation/d/e/2PACX-1vRZf-EjXJeaVhuZ5KTLJTTB05TdXeBf4fZ8o18KXJMUPhhZSeUBfX0YMRBI8-_odWAXPF3tC6ZbWLQS/pub?start=false&loop=true&delayms=1200000&slide=id.g35f391192_00)
-- 企劃教會外觀收集活動網站與獎勵機制提案
+- 企劃教會外觀收集活動網站與獎勵機制提案（細節功能企劃設計流程圖）
 [![.](https://trello-attachments.s3.amazonaws.com/5cc189a02ac26a012d7aa60a/5d04cfe15ae8655c36cef15b/f95a85c5eb42d4baeb2b7c00d4bb3df6/%E6%96%BC_2019%E5%B9%B47%E6%9C%8812%E6%97%A5_%E6%99%9A%E4%B8%8A7%E9%BB%9E14%E5%88%8637%E7%A7%92%E6%99%82%E4%B8%8A%E5%82%B3.png)](https://trello-attachments.s3.amazonaws.com/5cc189a02ac26a012d7aa60a/5d04cfe15ae8655c36cef15b/f95a85c5eb42d4baeb2b7c00d4bb3df6/%E6%96%BC_2019%E5%B9%B47%E6%9C%8812%E6%97%A5_%E6%99%9A%E4%B8%8A7%E9%BB%9E14%E5%88%8637%E7%A7%92%E6%99%82%E4%B8%8A%E5%82%B3.png)
 
 
