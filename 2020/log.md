@@ -1,4 +1,4 @@
-# 20191111 至今擔任 ISP 技術客服
+# 2019.11.11 至今擔任 ISP 技術客服
 
 任職後，應用本身擅長的資訊整合即時通報概念，
 開創新增並導入內部即時自動通報功能。
@@ -28,6 +28,16 @@
 
 ----
 
+# 2019 於 CCNDA.org 網路發展協會 主動程式開發
+
+- [為孩子禱告 LINE 傳播替代方案 - 完成程式開發簡報](https://docs.google.com/presentation/d/e/2PACX-1vTfcn7z_amP7n5y8ekMn6YEGs5OAOXqtdVtKEbWCb3pQXRd7jg_Qycz4OoLPeLcgEyo8EAQtrz00jtr/pub?start=false&loop=true&delayms=120000&slide=id.g35f391192_00)
+  - [主動程式開發完成後，經測試可行於官方網站公告 LINE 替代方案](https://www.ccnda.org/2019/03/3395)
+  - [LINE 替代方案報告](https://www.ccnda.org/2019/04/3399)
+  - 實際操作影片：
+[點我播放](https://www.youtube.com/embed/U3IaHwWKXcA?cc_lang_pref=tw&cc_load_policy=1&autoplay=1)
+- [CCNDA APP - 提案企劃 簡報](https://docs.google.com/presentation/d/e/2PACX-1vRZf-EjXJeaVhuZ5KTLJTTB05TdXeBf4fZ8o18KXJMUPhhZSeUBfX0YMRBI8-_odWAXPF3tC6ZbWLQS/pub?start=false&loop=true&delayms=1200000&slide=id.g35f391192_00)
+- 企劃教會外觀收集活動網站與獎勵機制提案
+[![.](https://trello-attachments.s3.amazonaws.com/5cc189a02ac26a012d7aa60a/5d04cfe15ae8655c36cef15b/f95a85c5eb42d4baeb2b7c00d4bb3df6)](https://trello-attachments.s3.amazonaws.com/5cc189a02ac26a012d7aa60a/5d04cfe15ae8655c36cef15b/f95a85c5eb42d4baeb2b7c00d4bb3df6)
 
 
 <script type="text/javascript">
