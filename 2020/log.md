@@ -84,7 +84,10 @@
 - [為孩子禱告 LINE 傳播替代方案 - 完成程式開發簡報](https://docs.google.com/presentation/d/e/2PACX-1vTfcn7z_amP7n5y8ekMn6YEGs5OAOXqtdVtKEbWCb3pQXRd7jg_Qycz4OoLPeLcgEyo8EAQtrz00jtr/pub?start=false&loop=true&delayms=120000&slide=id.g35f391192_00)
   - [主動程式開發完成後，經測試可行於官方網站公告 LINE 替代方案](https://www.ccnda.org/2019/03/3395)
   - [LINE 替代方案報告](https://www.ccnda.org/2019/04/3399)
-  - 實際操作影片：
+  - 實際操作影片（錄製、字幕、發布皆獨立完成）：
+個人訂閱介紹： http://bit.ly/praynotifyforone
+群組訂閱介紹：http://bit.ly/praynotifyforgroup
+
 [點我播放](https://www.youtube.com/embed/U3IaHwWKXcA?cc_lang_pref=tw&cc_load_policy=1&autoplay=1)
 - [CCNDA APP - 提案企劃 簡報](https://docs.google.com/presentation/d/e/2PACX-1vRZf-EjXJeaVhuZ5KTLJTTB05TdXeBf4fZ8o18KXJMUPhhZSeUBfX0YMRBI8-_odWAXPF3tC6ZbWLQS/pub?start=false&loop=true&delayms=1200000&slide=id.g35f391192_00)
 - 企劃教會外觀收集活動網站與獎勵機制提案（細節功能企劃設計流程圖）
