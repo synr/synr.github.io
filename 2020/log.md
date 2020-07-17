@@ -92,6 +92,16 @@
 - 企劃教會外觀收集活動網站與獎勵機制提案（細節功能企劃設計流程圖）
 [![.](https://trello-attachments.s3.amazonaws.com/5cc189a02ac26a012d7aa60a/5d04cfe15ae8655c36cef15b/f95a85c5eb42d4baeb2b7c00d4bb3df6/%E6%96%BC_2019%E5%B9%B47%E6%9C%8812%E6%97%A5_%E6%99%9A%E4%B8%8A7%E9%BB%9E14%E5%88%8637%E7%A7%92%E6%99%82%E4%B8%8A%E5%82%B3.png)](https://trello-attachments.s3.amazonaws.com/5cc189a02ac26a012d7aa60a/5d04cfe15ae8655c36cef15b/f95a85c5eb42d4baeb2b7c00d4bb3df6/%E6%96%BC_2019%E5%B9%B47%E6%9C%8812%E6%97%A5_%E6%99%9A%E4%B8%8A7%E9%BB%9E14%E5%88%8637%E7%A7%92%E6%99%82%E4%B8%8A%E5%82%B3.png)
 
+# 其他近期後端經驗如下
+
+- Golang 寫過 LINE BOT 應用範例：
+https://line.me/R/ti/p/%40rgp6918s
+![.](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6AQAAAACgl2eQAAABsklEQVR42u2ZXWrEMAyEBT5AjpSr60g5gMHVjOTWWUIfSh8y4JDNBvvbB6Gfkbw2fr/cNrCBDfwNcIvr8MaFbmc361gyLSA+/fC47YiX0a4znrkuBMCuWKeN6SLCioCPC88OHwkD4aOIOpukHJAhN2akGcLvISZfDmT69/V+qg/vBuoypk8YG157rNVvB+gmw641Wo2Xy7SAqF0tU55FrLMgd9MCMlMgiyBpXVZmKQDfsUs1dIYc9WX1pgBAA2nmFHejvacUgPVWkeb0EYrY6iwFoMovvENlDAONKqkFDG71rF0sYui4lpBTACplZt/rM4O0APa6F+yyrF14z3ZFCEAFNs4dxqxvKfR3xXk9QAch0lCEkTj8yW2kVQDYn7B1RwYhiT4GcwVgZH8LZZkdF56LNxUAuIldluVWWq0GUBYvmyP5yJHwU9zfDnCGZaZweDqtZiiXAipFqImjVJ6NihRQwcbAg6BkJ5/DiBCQE0cp44+nXAvIY7c68Bll+K1WywDOwZZ9VwXeKQiMOdJiSKfKuxZQRwrVbn1H3dACKv2PKsU8l65GRQfY/0ZtYAP/DXwBzervkn2sFHEAAAAASUVORK5CYII=)
+
+可以查詢多國語言的聖經指定章節，一次列出
+
+原始碼存放在
+https://github.com/lanco2017/k/tree/20170208part
 
 <script type="text/javascript">
   localStorage['wm']='landerso.at-ninja.jp';
